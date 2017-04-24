@@ -5,7 +5,7 @@
 # Copyright:: 2017, The Authors, All Rights Reserved.
 #
 if node['platform_family'] == "rhel"
-	package = "http"
+	package = "httpd"
 
 end
 
